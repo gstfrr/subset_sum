@@ -1,0 +1,4 @@
+"/Users/gstfrr/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/211.7142.21/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/bin/gcc -DCMAKE_CXX_COMPILER=/usr/bin/g++ -G "CodeBlocks - Unix Makefiles" /Users/gstfrr/CLionProjects/subset_sum
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/gstfrr/CLionProjects/subset_sum/cmake-build-debug
